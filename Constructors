@@ -29,3 +29,8 @@ Example:
 		System.out.println(s1.name +".."+ s1.rollno);
 	}
 }
+
+super() and this()
+1.We can use these only inside constructors
+2.We must use these in first line
+3.We can use anyone in the constructor
