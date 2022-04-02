@@ -12,6 +12,7 @@ Rules for constructor:
 2.There is no return type for constructor and if we declare with return type then compiler will consider it as method
 3.only public, default, protected and private access modifiers are allowed for constrcutors.(if we use other than these then we get compile time error)
 
+***Compiler checks Constructor code and if its not proper then compiler will add this() or super() 
 
 Example:
   public class Student {
