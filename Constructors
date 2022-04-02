@@ -1,7 +1,11 @@
 Java constructors are used to initialize the objects.
 
 ***If programmer not writing constructor then java compiler will add default constructor.Every class in java contains constrcutor.
-Default constructor contains only one line of code that is "super();"
+
+Prototype of default constructor:
+1.It is always no arg constructor
+2.Access modifier of default constructor will be same as class(applicable only public, default, Protected and private)
+3.Default constructor is a no arg call to super class constructor.
 
 Rules for constructor:
 1.Class name and constructor name should be same
