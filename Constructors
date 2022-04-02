@@ -1,5 +1,8 @@
 Java constructors are used to initialize the objects.
 
+***If programmer not writing constructor then java compiler will add default constructor.Every class in java contains constrcutor.
+Default constructor contains only one line of code that is "super();"
+
 Rules for constructor:
 1.Class name and constructor name should be same
 2.There is no return type for constructor and if we declare with return type then compiler will consider it as method
