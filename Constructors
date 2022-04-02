@@ -1,5 +1,11 @@
 Java constructors are used to initialize the objects.
 
+Rules for constructor:
+1.Class name and constructor name should be same
+2.There is no return type for constructor and if we declare with return type then compiler will consider it as method
+3.only public, default, protected and private access modifiers are allowed for constrcutors.(if we use other than these then we get compile time error)
+
+
 Example:
   public class Student {
 	String name;
