@@ -1,1 +1,17 @@
 Java constructors are used to initialize the objects.
+
+Example:
+  public class Student {
+	String name;
+	int rollno;
+	
+	//constructor
+	Student(String name, int rollno){
+		this.name=name;
+		this.rollno=rollno;
+	}
+	public static void main(String[] args) {
+		Student s1=new Student("Tk",101);
+		System.out.println(s1.name +".."+ s1.rollno);
+	}
+}
