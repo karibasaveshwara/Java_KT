@@ -1,0 +1,3 @@
+If multiple classes present in one java file then file name can be any class's name.
+If multiple classes present in one java file and one of the class is public then file name should contain public class name.
+More than one public class is not allowed in one java file
