@@ -30,7 +30,8 @@ Example:
 	}
 }
 
-super() and this()
-1.We can use these only inside constructors
-2.We must use these in first line
-3.We can use anyone in the constructor
+Constructor overloading
+----------------------------
+1.We can write n number of constructor with different type of args
+
+***Overriding and inheritance concepts are not applicable to constructors
