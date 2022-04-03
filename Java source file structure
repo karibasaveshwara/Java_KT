@@ -1,3 +1,8 @@
 If multiple classes present in one java file then file name can be any class's name.
 If multiple classes present in one java file and one of the class is public then file name should contain public class name.
 More than one public class is not allowed in one java file
+
+Java file can contain any number of classes and whenever we executing particular class file then that main method will be executed.
+If class file does not contain main method then error will be generating while executing that file.
+
+***Whenever we compile java program then .class file will be created
