@@ -35,6 +35,6 @@ Constructor overloading
 ----------------------------
 1.We can write n number of constructor with different type of args
 
-***Overriding and inheritance concepts are not applicable to constructors
-***Recursive constructor gives compile time error where as in recursive method gives run time error
-
+*** Overriding and inheritance concepts are not applicable to constructors
+*** Recursive constructor gives compile time error where as in recursive method gives run time error
+*** If parent constructor throws any exception then child constructor must throw the same exception.
