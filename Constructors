@@ -1,7 +1,7 @@
 Java constructors are used to initialize the objects.
 
 ***If programmer not writing constructor then java compiler will add default constructor.Every class in java contains constrcutor including abstract class but not in interface.
-Every variable present in the interface in public static and final hence constructor is applicable to interface. 
+Every variable present in the interface in public static and final hence constructor is not applicable to interface. 
 
 Prototype of default constructor:
 1.It is always no arg constructor
