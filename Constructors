@@ -1,6 +1,6 @@
 Java constructors are used to initialize the objects.
 
-***If programmer not writing constructor then java compiler will add default constructor.Every class in java contains constrcutor.
+***If programmer not writing constructor then java compiler will add default constructor.Every class in java contains constrcutor including abstract class but not in interface.
 
 Prototype of default constructor:
 1.It is always no arg constructor
